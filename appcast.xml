@@ -3,6 +3,25 @@
     <channel>
         <title>KeyHop</title>
         <item>
+            <title>260904.1</title>
+            <pubDate>Fri, 04 Sep 2026 22:58:13 +0800</pubDate>
+            <link>https://github.com/cxa/keyhop</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/keyhop/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2609.04.1</sparkle:version>
+            <sparkle:shortVersionString>260904.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[KeyHop 260904.1 makes setup and configuration cleaner and more consistent.
+
+- Assign apps from a compact keyboard strip that keeps every slot neatly aligned.
+- Recognize home-row positions more easily with keycap-style labels and F/J markers.
+- Use the same Leader-key and app-assignment controls in onboarding and Settings.
+- Follow a simpler Accessibility permission step with clearer, more readable guidance.
+- Enjoy more consistent spacing, alignment, and status presentation throughout Settings.
+]]></description>
+            <enclosure url="https://github.com/cxa/keyhop/releases/download/v260904.1/KeyHop-260904.1.dmg" length="3328563" type="application/octet-stream" sparkle:edSignature="MgiRrCt7Blfviv3H71u1bAqs1h/FgJCZ+36MJLWziuofy0XnkDJ/5IJCt+MMKMXPLzhQ8Sq2E844SCnbmDotAA=="/>
+        </item>
+        <item>
             <title>260904.0</title>
             <pubDate>Fri, 04 Sep 2026 10:25:28 +0800</pubDate>
             <link>https://github.com/cxa/keyhop</link>

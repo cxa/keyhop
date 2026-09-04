@@ -1,5 +1,17 @@
 # Release notes
 
+<!-- release-notes:260904.1:start -->
+## 260904.1
+
+KeyHop 260904.1 makes setup and configuration cleaner and more consistent.
+
+- Assign apps from a compact keyboard strip that keeps every slot neatly aligned.
+- Recognize home-row positions more easily with keycap-style labels and F/J markers.
+- Use the same Leader-key and app-assignment controls in onboarding and Settings.
+- Follow a simpler Accessibility permission step with clearer, more readable guidance.
+- Enjoy more consistent spacing, alignment, and status presentation throughout Settings.
+
+<!-- release-notes:260904.1:end -->
 <!-- release-notes:260904.0:start -->
 ## 260904.0
 
