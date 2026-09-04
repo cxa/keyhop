@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KeyHop</title>
+        <item>
+            <title>260904.0</title>
+            <pubDate>Fri, 04 Sep 2026 10:25:28 +0800</pubDate>
+            <link>https://github.com/cxa/keyhop</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/keyhop/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2609.04.0</sparkle:version>
+            <sparkle:shortVersionString>260904.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[KeyHop’s first release makes everyday app switching immediate and predictable.
+
+- Double-tap your chosen modifier, then press a home-row key to jump directly to an assigned app.
+- Assign up to ten apps and keep their positions consistent across supported keyboard layouts.
+- Follow a guided first-run experience with clearer Accessibility permission recovery.
+- Use the new app icon and pixel-sharp menu bar symbol, with matching balanced spacing.
+- Pause KeyHop, resume it, or launch it automatically when you sign in.
+]]></description>
+            <enclosure url="https://github.com/cxa/keyhop/releases/download/v260904.0/KeyHop-260904.0.dmg" length="3325073" type="application/octet-stream" sparkle:edSignature="VtMze4bOSiPhGvvRK/sYeMfpxXKDLKh5uizIskMz+uE54UmRyUeYW029p90VNM09qxm/Iaw6/n+Out1Ba2kNAw=="/>
+        </item>
+    </channel>
+</rss>
