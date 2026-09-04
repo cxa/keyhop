@@ -1,5 +1,13 @@
 # Release notes
 
+<!-- release-notes:260904.2:start -->
+## 260904.2
+
+- Prevents KeyHop from asking for Accessibility access again after an update when access is already enabled.
+- Keeps onboarding text readable and in sync with the current light or dark appearance.
+- Matches the updater icon to the current appearance and polishes the Updates controls.
+
+<!-- release-notes:260904.2:end -->
 <!-- release-notes:260904.1:start -->
 ## 260904.1
 

@@ -1,6 +1,6 @@
 cask "keyhop" do
-  version "260904.1"
-  sha256 "61677f89b63e0be229baaf562100c21d7703b3f85be4dfcbbc95c142e14da549"
+  version "260904.2"
+  sha256 "f798d8edf5665c10aa1517c9d68646a722d8795bd0878a19049241cf55225ada"
 
   url "https://github.com/cxa/keyhop/releases/download/v#{version}/KeyHop-#{version}.dmg"
   name "KeyHop"
