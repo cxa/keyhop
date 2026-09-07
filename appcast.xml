@@ -3,6 +3,20 @@
     <channel>
         <title>KeyHop</title>
         <item>
+            <title>260907.1</title>
+            <pubDate>Mon, 07 Sep 2026 18:02:18 +0800</pubDate>
+            <link>https://github.com/cxa/keyhop</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/keyhop/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2609.07.1</sparkle:version>
+            <sparkle:shortVersionString>260907.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Turn on iCloud during setup to reuse your shortcuts and app assignments from another Mac.
+- Enjoy clearer setup text and more consistent spacing.
+]]></description>
+            <enclosure url="https://github.com/cxa/keyhop/releases/download/v260907.1/KeyHop-260907.1.dmg" length="4877819" type="application/octet-stream" sparkle:edSignature="tnRHSfEEeh8Sjknlmz5FFd0KLtuHxzNh55j0sRSS4Sn18aAcmLHfDiQWzgS1ha7c1SMyAN+6/kywlmySvj4eAg=="/>
+        </item>
+        <item>
             <title>260907.0</title>
             <pubDate>Mon, 07 Sep 2026 16:45:35 +0800</pubDate>
             <link>https://github.com/cxa/keyhop</link>

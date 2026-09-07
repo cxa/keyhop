@@ -1,5 +1,12 @@
 # Release notes
 
+<!-- release-notes:260907.1:start -->
+## 260907.1
+
+- Turn on iCloud during setup to reuse your shortcuts and app assignments from another Mac.
+- Enjoy clearer setup text and more consistent spacing.
+
+<!-- release-notes:260907.1:end -->
 <!-- release-notes:260907.0:start -->
 ## 260907.0
 
