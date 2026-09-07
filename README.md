@@ -7,16 +7,16 @@ jump directly to an assigned app.
 ## Install
 
 <!-- release-summary-en:start -->
-Latest version: `KeyHop-260904.2.dmg`. See the [release notes](RELEASE_NOTES.md) for changes in every version.
+Latest version: `KeyHop-260907.0.dmg`. See the [release notes](RELEASE_NOTES.md) for changes in every version.
 <!-- release-summary-en:end -->
 
 **Direct download**
 
 <!-- release-download-en:start -->
-Download [`KeyHop-260904.2.dmg`](https://github.com/cxa/keyhop/releases/download/v260904.2/KeyHop-260904.2.dmg) (SHA-256: `f798d8edf5665c10aa1517c9d68646a722d8795bd0878a19049241cf55225ada`)
+Download [`KeyHop-260907.0.dmg`](https://github.com/cxa/keyhop/releases/download/v260907.0/KeyHop-260907.0.dmg) (SHA-256: `7f36cb641d59e6c04e801aefe702a8db35a99897c82177a6a3f4af97a5cefb29`)
 <!-- release-download-en:end -->
 
-1. Download the `KeyHop-260904.2.dmg` shown above.
+1. Download the `KeyHop-260907.0.dmg` shown above.
 2. Open the DMG and drag `KeyHop.app` into **Applications**.
 3. Open KeyHop and complete the first-launch guide.
 
@@ -48,16 +48,16 @@ KeyHop is not open source.
 ## 安装
 
 <!-- release-summary-zh:start -->
-最新版本：`KeyHop-260904.2.dmg`。每个版本的更新内容请查看[发行说明](RELEASE_NOTES.md)。
+最新版本：`KeyHop-260907.0.dmg`。每个版本的更新内容请查看[发行说明](RELEASE_NOTES.md)。
 <!-- release-summary-zh:end -->
 
 **直接下载**
 
 <!-- release-download-zh:start -->
-下载 [`KeyHop-260904.2.dmg`](https://github.com/cxa/keyhop/releases/download/v260904.2/KeyHop-260904.2.dmg)（SHA-256：`f798d8edf5665c10aa1517c9d68646a722d8795bd0878a19049241cf55225ada`）
+下载 [`KeyHop-260907.0.dmg`](https://github.com/cxa/keyhop/releases/download/v260907.0/KeyHop-260907.0.dmg)（SHA-256：`7f36cb641d59e6c04e801aefe702a8db35a99897c82177a6a3f4af97a5cefb29`）
 <!-- release-download-zh:end -->
 
-1. 下载上方列出的 `KeyHop-260904.2.dmg`。
+1. 下载上方列出的 `KeyHop-260907.0.dmg`。
 2. 打开 DMG，将 `KeyHop.app` 拖入“应用程序”文件夹。
 3. 打开飞键并完成首次启动引导。
 

@@ -1,5 +1,12 @@
 # Release notes
 
+<!-- release-notes:260907.0:start -->
+## 260907.0
+
+- Sync your Leader key, double-tap interval, keyboard layout, and app assignments across Macs with iCloud.
+- Keep using your saved settings offline, and choose whether each Mac joins iCloud sync.
+
+<!-- release-notes:260907.0:end -->
 <!-- release-notes:260904.2:start -->
 ## 260904.2
 
