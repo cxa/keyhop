@@ -3,6 +3,27 @@
     <channel>
         <title>KeyHop</title>
         <item>
+            <title>261009.0</title>
+            <pubDate>Fri, 09 Oct 2026 21:56:10 +0800</pubDate>
+            <link>https://github.com/cxa/keyhop</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/keyhop/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.09.0</sparkle:version>
+            <sparkle:shortVersionString>261009.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- See your app shortcuts when you double-tap the Leader. The map stays visible until you choose an app or cancel.
+- Enjoy a compact, translucent map with clear, high-contrast key labels. It appears in the center by default, with shortcuts ordered down each column.
+- Move the map to any screen edge, preview its position, or hide it in Settings.
+- Option is now the default Leader for new setups. Your existing choice stays unchanged.
+
+- 双击 Leader 后显示 App 快捷键映射，持续显示直到选择应用或取消。
+- 紧凑的半透明面板配合清晰、高对比的字母键帽，默认居中，两列分别从上到下排列。
+- 可在设置中选择任一屏幕边缘、预览位置，或隐藏映射。
+- 新用户的默认 Leader 改为 Option，已有选择保持不变。
+]]></description>
+            <enclosure url="https://github.com/cxa/keyhop/releases/download/v261009.0/KeyHop-261009.0.dmg" length="5088543" type="application/octet-stream" sparkle:edSignature="68a3a5fVa4V99gkBc+dSmLTmHfelMjjrAswZDXfnLWZqn367bTKLEco+769YYOlFXSh+MR6LjlO8ZQ6kDK3pDA=="/>
+        </item>
+        <item>
             <title>260907.1</title>
             <pubDate>Mon, 07 Sep 2026 18:02:18 +0800</pubDate>
             <link>https://github.com/cxa/keyhop</link>
@@ -63,25 +84,6 @@
 - Enjoy more consistent spacing, alignment, and status presentation throughout Settings.
 ]]></description>
             <enclosure url="https://github.com/cxa/keyhop/releases/download/v260904.1/KeyHop-260904.1.dmg" length="3328563" type="application/octet-stream" sparkle:edSignature="MgiRrCt7Blfviv3H71u1bAqs1h/FgJCZ+36MJLWziuofy0XnkDJ/5IJCt+MMKMXPLzhQ8Sq2E844SCnbmDotAA=="/>
-        </item>
-        <item>
-            <title>260904.0</title>
-            <pubDate>Fri, 04 Sep 2026 10:25:28 +0800</pubDate>
-            <link>https://github.com/cxa/keyhop</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/keyhop/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2609.04.0</sparkle:version>
-            <sparkle:shortVersionString>260904.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[KeyHop’s first release makes everyday app switching immediate and predictable.
-
-- Double-tap your chosen modifier, then press a home-row key to jump directly to an assigned app.
-- Assign up to ten apps and keep their positions consistent across supported keyboard layouts.
-- Follow a guided first-run experience with clearer Accessibility permission recovery.
-- Use the new app icon and pixel-sharp menu bar symbol, with matching balanced spacing.
-- Pause KeyHop, resume it, or launch it automatically when you sign in.
-]]></description>
-            <enclosure url="https://github.com/cxa/keyhop/releases/download/v260904.0/KeyHop-260904.0.dmg" length="3325073" type="application/octet-stream" sparkle:edSignature="VtMze4bOSiPhGvvRK/sYeMfpxXKDLKh5uizIskMz+uE54UmRyUeYW029p90VNM09qxm/Iaw6/n+Out1Ba2kNAw=="/>
         </item>
     </channel>
 </rss>

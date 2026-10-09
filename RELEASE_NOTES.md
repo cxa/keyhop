@@ -1,5 +1,19 @@
 # Release notes
 
+<!-- release-notes:261009.0:start -->
+## 261009.0
+
+- See your app shortcuts when you double-tap the Leader. The map stays visible until you choose an app or cancel.
+- Enjoy a compact, translucent map with clear, high-contrast key labels. It appears in the center by default, with shortcuts ordered down each column.
+- Move the map to any screen edge, preview its position, or hide it in Settings.
+- Option is now the default Leader for new setups. Your existing choice stays unchanged.
+
+- 双击 Leader 后显示 App 快捷键映射，持续显示直到选择应用或取消。
+- 紧凑的半透明面板配合清晰、高对比的字母键帽，默认居中，两列分别从上到下排列。
+- 可在设置中选择任一屏幕边缘、预览位置，或隐藏映射。
+- 新用户的默认 Leader 改为 Option，已有选择保持不变。
+
+<!-- release-notes:261009.0:end -->
 <!-- release-notes:260907.1:start -->
 ## 260907.1
 
